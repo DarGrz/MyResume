@@ -79,7 +79,8 @@ const About = () => {
                 <a
                   target="_blank"
                   className="m-btn m-btn-theme"
-                  href="https://1drv.ms/b/s!At5WSsmTLEiU1EN6EKFC5BVtdLAO?e=O6IbdZ"
+                  href="/public/static/doc/dariusz_grzegorczyk_resume.pdf"
+                  download
                 >
                   Download CV
                 </a>
