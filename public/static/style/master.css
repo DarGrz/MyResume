@@ -6071,10 +6071,10 @@ h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(9, 10, 12, 0.5);
+  background: rgba(6, 7, 10, 0.8);
   -webkit-transition: ease all 0.35s;
   transition: ease all 0.35s;
-  opacity: 0;
+  opacity: 1;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -6103,7 +6103,7 @@ h6 {
   position: relative;
   -webkit-transition: ease all 0.35s;
   transition: ease all 0.35s;
-  left: -25px;
+  top: 25px;
 }
 @media (max-width: 991px) {
   .portfolio-box-01 .portfolio-info h5 {
@@ -6120,16 +6120,16 @@ h6 {
   -webkit-transition: ease all 0.35s;
   transition: ease all 0.35s;
   position: relative;
-  left: -25px;
+  top: 25px;
 }
 .portfolio-box-01:hover .portfolio-info {
   opacity: 1;
 }
 .portfolio-box-01:hover .portfolio-info h5 {
-  left: 0;
+  top: 0;
 }
 .portfolio-box-01:hover .portfolio-info span {
-  left: 0;
+  top: 0;
 }
 .portfolio-box-01:hover img {
   -webkit-transform: scale(1.1);
