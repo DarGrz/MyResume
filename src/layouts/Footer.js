@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="row align-items-center">
           <div className="col-md-6 m-10px-tb">
             <div className="nav justify-content-center justify-content-md-start">
-              <a href="#">
+              {/* <a href="#">
                 <i className="fab fa-facebook-f" />
               </a>
               <a href="#">
@@ -19,11 +19,11 @@ const Footer = () => {
               </a>
               <a href="#">
                 <i className="fab fa-pinterest" />
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="col-md-6 m-10px-tb text-center text-md-right">
-            <p>© {new Date().getFullYear()} copyright all right reserved</p>
+            <p>DG © {new Date().getFullYear()} copyright all right reserved</p>
           </div>
         </div>
       </div>
