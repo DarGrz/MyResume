@@ -48,7 +48,7 @@ const Header = ({ headerColor, isTransparent }) => {
                 </li>
                 <li>
                   <a className="nav-link" href="#about">
-                    About Us
+                    About
                   </a>
                 </li>
                 <li>

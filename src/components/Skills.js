@@ -110,7 +110,7 @@ const Skills = () => {
                     <i className="fas fa-trophy" />
                   </div>
                   <div className="media-body">
-                    <h5>Salesforce Certified Administrator </h5>
+                    <h5>Salesforce Certified Admin </h5>
                   </div>
                 </div>
               </div>
