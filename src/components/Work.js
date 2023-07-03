@@ -81,7 +81,7 @@ const Work = () => {
               <br />
               <h5>Dom z pompą</h5>
               <span>
-                This is a website for an HVAC (heating, ventilation, and air
+                This is a website for a HVAC (heating, ventilation, and air
                 conditioning) company. The website is built using JavaScript,
                 HTML, and CSS, and includes a contact form implemented using
                 PHP.

@@ -173,7 +173,7 @@ const Contact = () => {
               <div className="media-body">
                 <h6 className="dark-color font-alt">Phone</h6>
                 <p>
-                  <a href="tel:+48571202533">+48 571 202 533</a>
+                  <a href="tel:+48571202533">+48 737 798 819</a>
 
                   <br />
                 </p>

@@ -71,7 +71,7 @@ const About = () => {
                   </div>
                   <div className="media">
                     <label>Phone</label>
-                    <p>+ 48 737 798 819</p>
+                    <p>+ 48 571 767 999</p>
                   </div>
                 </div>
               </div>
