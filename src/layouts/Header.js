@@ -18,7 +18,7 @@ const Header = ({ headerColor, isTransparent }) => {
         >
           <div className="container">
             {/* Brand */}
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="/">
               Dario <span className="theme-bg" />
             </a>
             {/* / */}
