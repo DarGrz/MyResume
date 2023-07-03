@@ -46,18 +46,20 @@ const Work = () => {
                   <img src="static/img/portfolio-1.jpg" alt="image" />
                 </a>
               </div>
-              <div className="portfolio-info">
-                <h5>GOFFER</h5>
-                <span>
-                  Goffer is an exciting new app designed to bring people
-                  together and enhance social connections in the real world
-                </span>
-              </div>
+
               <a
                 target="_blank"
                 className="link-overlay"
                 href="https://github.com/DarGrz/The-app "
               />
+            </div>
+            <div className="portfolio-info">
+              <br />
+              <h5>GOFFER</h5>
+              <span>
+                Goffer is an exciting new app designed to bring people together
+                and enhance social connections in the real world
+              </span>
             </div>
           </div>{" "}
           {/* grid item */}
@@ -68,20 +70,22 @@ const Work = () => {
                   <img src="static/img/portfolio-2.jpg" alt="image" />
                 </a>
               </div>
-              <div className="portfolio-info">
-                <h5>Dom z pompą</h5>
-                <span>
-                  This is a website for an HVAC (heating, ventilation, and air
-                  conditioning) company. The website is built using JavaScript,
-                  HTML, and CSS, and includes a contact form implemented using
-                  PHP.
-                </span>
-              </div>
+
               <a
                 target="_blank"
                 className="link-overlay"
                 href="https://dargrz.github.io/Dom-z-pompa-website/"
               />
+            </div>
+            <div className="portfolio-info">
+              <br />
+              <h5>Dom z pompą</h5>
+              <span>
+                This is a website for an HVAC (heating, ventilation, and air
+                conditioning) company. The website is built using JavaScript,
+                HTML, and CSS, and includes a contact form implemented using
+                PHP.
+              </span>
             </div>
           </div>{" "}
           {/* grid item */}
@@ -92,19 +96,21 @@ const Work = () => {
                   <img src="static/img/portfolio-3.jpg" alt="image" />
                 </a>
               </div>
-              <div className="portfolio-info">
-                <h5>HeatPump Compare </h5>
-                <span>
-                  HeatPump Compare is a web application developed with Next.js,
-                  designed to assist users in comparing various heating pumps
-                  available in the market.
-                </span>
-              </div>
+
               <a
                 target="_blank"
                 className="link-overlay"
                 href="https://hpcnextjs-dargrz.vercel.app/"
               />
+            </div>
+            <div className="portfolio-info">
+              <br />
+              <h5>HeatPump Compare </h5>
+              <span>
+                HeatPump Compare is a web application developed with Next.js,
+                designed to assist users in comparing various heating pumps
+                available in the market.
+              </span>
             </div>
           </div>{" "}
         </div>{" "}
