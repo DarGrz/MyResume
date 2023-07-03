@@ -4,7 +4,7 @@ import Contact from "@/src/components/Contact";
 import Skills from "@/src/components/Skills";
 import Testiminails from "@/src/components/Testiminails";
 import Layout from "@/src/layouts/Layout";
-import Services from "@/src/components/Services";
+import Certification from "@/src/components/Certification";
 import TypingAnimation from "@/src/components/TypingAnimation";
 import dynamic from "next/dynamic";
 
@@ -59,7 +59,7 @@ const Index3 = () => {
       <Skills />
       {/* End fun */}
       {/* resume */}
-      <Services />
+      <Certification />
       {/* End resume */}
       {/* Work */}
       <Work />
